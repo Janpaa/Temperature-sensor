@@ -1,0 +1,10 @@
+Syncfusion.SfChart.UWP, Version=16.4460.0.54, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89
+  Syncfusion.SfChart.UWP.Resources.printicon.png
+  Syncfusion.SfChart.UWP.Syncfusion.UI.Xaml.Charts.SfAreaSparkline.Icon.png
+  Syncfusion.SfChart.UWP.Syncfusion.UI.Xaml.Charts.SfChart.Icon.png
+  Syncfusion.SfChart.UWP.Syncfusion.UI.Xaml.Charts.SfChart3D.Icon.png
+  Syncfusion.SfChart.UWP.Syncfusion.UI.Xaml.Charts.SfColumnSparkline.Icon.png
+  Syncfusion.SfChart.UWP.Syncfusion.UI.Xaml.Charts.SfDateTimeRangeNavigator.Icon.png
+  Syncfusion.SfChart.UWP.Syncfusion.UI.Xaml.Charts.SfLineSparkline.Icon.png
+  Syncfusion.SfChart.UWP.Syncfusion.UI.Xaml.Charts.SfRangeNavigator.Icon.png
+  Syncfusion.SfChart.UWP.Syncfusion.UI.Xaml.Charts.SfWinLossSparkline.Icon.png

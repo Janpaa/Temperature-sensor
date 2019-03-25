@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tempSensorBackGroundApp", "tempSensorBackGroundApp\tempSensorBackGroundApp.csproj", "{198273F9-A2E8-4549-A135-9FE1393F7CBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Debug|ARM.ActiveCfg = Debug|ARM
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Debug|ARM.Build.0 = Debug|ARM
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Debug|ARM.Deploy.0 = Debug|ARM
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Debug|x64.ActiveCfg = Debug|x64
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Debug|x64.Build.0 = Debug|x64
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Debug|x64.Deploy.0 = Debug|x64
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Debug|x86.ActiveCfg = Debug|x86
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Debug|x86.Build.0 = Debug|x86
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Debug|x86.Deploy.0 = Debug|x86
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Release|ARM.ActiveCfg = Release|ARM
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Release|ARM.Build.0 = Release|ARM
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Release|ARM.Deploy.0 = Release|ARM
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Release|x64.ActiveCfg = Release|x64
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Release|x64.Build.0 = Release|x64
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Release|x64.Deploy.0 = Release|x64
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Release|x86.ActiveCfg = Release|x86
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Release|x86.Build.0 = Release|x86
+		{198273F9-A2E8-4549-A135-9FE1393F7CBE}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76C78633-B342-46AB-A813-F6EEF1CBD85F}
+	EndGlobalSection
+EndGlobal

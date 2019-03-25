@@ -1,0 +1,1 @@
+C:\Users\jani\Desktop\Sulat\Windows iot\tempSensorBackGroundApp\tempSensorBackGroundApp\tempSensorBackGroundApp.csproj;arm
